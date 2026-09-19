@@ -1,6 +1,6 @@
 Writeup: Máquina Docker Labs
 Autor: kur0
-Dificultad: Fácil - Media
+Dificultad: ¿?
 Fecha: 22 de Junio, 2026
 
 Flujo de Ataque (Killchain)
